@@ -11,7 +11,7 @@ google-auth==1.28.1
 google-auth-oauthlib==0.4.4
 google-pasta==0.2.0
 grpcio==1.32.0
-h5py==2.10.0
+h5py==3.3.0
 idna==2.10
 joblib==1.0.1
 Keras-Preprocessing==1.1.2
